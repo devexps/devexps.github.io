@@ -49,12 +49,12 @@ projects:
 topics:
   - name: Golang
     web_url: https://golang.org/
-    image_url: https://golang.org/lib/godoc/images/go-logo-blue.svg
+    image_url: /assets/topics/golang-logo.svg
 
   - name: Flutter
     web_url: https://flutter.dev/
-    image_url: https://juststickers.in/wp-content/uploads/2019/01/flutter.png
+    image_url: /assets/topics/flutter-logo.png
 
   - name: Unity
     web_url: https://unity.com/
-    image_url: https://technicalhub.io/images/codeheat3.0-courses/even_session46.png
+    image_url: /assets/topics/unity-logo.png
