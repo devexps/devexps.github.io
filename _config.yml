@@ -21,6 +21,9 @@ defaults:
 paginate: 9
 paginate_path: "/page-:num/"
 
+google_analytics: UA-32191131-9
+google_verify: 9lmiazHczMChihSqOIRvBkz8a833OZ8hi1Jhv1YHU3w
+
 projects:
   sort_by: pushed
   # sort_by options:
