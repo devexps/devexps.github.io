@@ -5,6 +5,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-sitemap
+  - jekyll-paginate
 
 permalink: /:year/:month/:day/:title/
 
@@ -15,6 +17,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+paginate: 9
+paginate_path: "/page-:num/"
 
 projects:
   sort_by: pushed

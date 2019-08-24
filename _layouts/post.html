@@ -62,6 +62,14 @@
             {{ post_body }}
           </div>
         </div>
+        <div class="next-prev-nav">
+          {% if page.previous.url %}
+            <div><a class="prev" href="{{page.previous.url}}">&raquo; {{page.previous.title}}</a></div>
+          {% endif %}
+          {% if page.next.url %}
+            <div><a class="prev" href="{{page.next.url}}">&raquo; {{page.next.title}}</a></div>
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>
