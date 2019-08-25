@@ -13,7 +13,9 @@ In this article, we're going to create our first application and built up oursel
 We can install Flutter on our machine in a variety of ways. The easiest way to get started is to download the installer from the Flutter website.
 
 - [MacOs](https://flutter.dev/docs/get-started/install/macos)
+
 - [Windows](https://flutter.dev/docs/get-started/install/windows)
+
 - [Linux](Linux)
 
 ### IDE & Plugins
@@ -39,14 +41,14 @@ As anticipated, this will go ahead and create a new Flutter project for us and o
 
 With default configuration focus on main.dart, simply we're hit to choose the simulator (Android or iPhone) for running. I've selected this iOS Simulator for this. We should then see our demo application.
 
-<img src="/assets/thoughts/flutter-mobile/hello-flutter/first-run-app.png" width="100%">
+<img src="/assets/thoughts/flutter-mobile/hello-flutter/first-run-app.png" width="100%" alt="flutter first app">
 
 And now, you'll wonder how to write a really application with Flutter. An application has a lot of screens, lots of feature and many processing logic like network, database, etc. Let me suggest you a clearly structure of Flutter project.
 
 ### Project Structure
 Using the state management framework in your project is **Provider**, and apply the architecture of the entire project is as follows
 
-<img src="/assets/thoughts/flutter-mobile/hello-flutter/mvp.png" width="100%">
+<img src="/assets/thoughts/flutter-mobile/hello-flutter/mvp.png" width="100%" alt="MVP project structure">
 
 - The **View** layer is used to display layouts and is a variety of **StatelessWidget** pages wrapped by **ChangeNotifierProvider**.
 - The **Model** layer is used to process data and is variety of Model classes that inherit **ChangeNotifier**
