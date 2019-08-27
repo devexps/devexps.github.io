@@ -102,7 +102,8 @@ class MyLocalizationsDelegate extends LocalizationsDelegate<MyLocalizations> {
 }
 ```
 
-The *MyLocalizations* class will only have 2 static methods for now. The *load()* & *of()* method:
+The *MyLocalizations* class will only have 2 static methods for now:
+
 - **load** function will load the string resources from the desired Locale as you can see in the parameter.
 - **of** function will be a helper to facilitate the access to any string from any part of the app code.
 
