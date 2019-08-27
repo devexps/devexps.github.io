@@ -98,7 +98,7 @@ database | Store database operation related classes
 l10n | Class for storing internationalized related operations
 items | Item class that stores part of the List list
 json | Various network requests, databases, etc. related json files
-logic | Locig layer directory
+logic | Logic layer directory
 model | Model layer directory
 pages | Store each page, which is the directory of the View layer
 utils | Packaged tools, such as file operations
