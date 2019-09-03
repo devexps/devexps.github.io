@@ -33,7 +33,7 @@ After **main thread** created, Dart automatically:
 During the whole life of the thread, a single internal and invisible process, called the `“Event Loop”`, will drive the way your code will be executed and in which sequence order, depending on the content of both **MicroTask Queue** and **Event** queues.
 
 The *Event Loop* corresponds to some kind of **infinite** loop, cadence by an internal clock which, at each tick, if no other Dart code is being executed, does something like the following:
-```Dart
+```dart
 static void eventLoop() {
     while (microTaskQueue.isNotEmpty){
         fetchFirstMicroTaskFromQueue();
@@ -53,10 +53,10 @@ As we can see the MicroTask Queue has precedence over the Event Queue.
 The *MicroTask* queue is used for **very short** internal actions that need to be run *asynchronously*, right after something else completes and before giving the hand back to the Event queue.
 
 As an example of a *MicroTask* you could imagine having to dispose a resource, right after it has been closed. As the closure process could take some time to complete, you could write something like this:
-```Dart
+```dart
     MyResource myResource;
 
-    ...
+    //...
 
     void closeAndRelease() {
         scheduleMicroTask(_dispose);
@@ -66,7 +66,7 @@ As an example of a *MicroTask* you could imagine having to dispose a resource, r
     void _close(){
         // The code to be run synchronously
         // to close the resource
-        ...
+        //...
     }
 
     void _dispose(){
@@ -92,3 +92,5 @@ In fact, each time an **external** event is triggered, the corresponding code to
 As soon as there is no longer any *micro task* to run, the *Event Loop* considers the first item in the *Event* Queue and will execute it.
 
 It is very interesting to note that **Futures** are also handled via the *Event* queue.
+
+Okay, that's all and I'll see you next article, enjoy!
