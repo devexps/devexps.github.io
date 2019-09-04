@@ -6,7 +6,7 @@ date: "2019-09-04 10:22:25 +0700"
 > **THE OFFICIAL DESCRIPTION**  
 > Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
-Back in the day, an application would be created and run on a machine. There was a ratio of 1:1. One application, one machine. We always purchased the most powerful machine possible to cover their asses, errors. The result of this is many machines only ran at a small fraction of their capacity. After that, we have the **virtual machines** - include the application, the necessary binaries and libraries, and an entire guest operating system. And we have the **containers** - include the application and all of its dependencies, share the kernel with other containers, running as isolated processes in user space on the host operating system.
+Back in the day, an application would be created and run on a machine. There was a ratio of 1:1. One application, one machine. We always purchased the most powerful machine possible to cover our asses, errors. The result of this is many machines only ran at a small fraction of their capacity. After that, we have the **virtual machines** - include the application, the necessary binaries and libraries, and an entire guest operating system. And we have the **containers** - include the application and all of its dependencies, share the kernel with other containers, running as isolated processes in user space on the host operating system.
 
 <p align="center">
 <img src="/assets/thoughts/devops/hello_docker_with_go/docker.png" width="600px" alt="Docker Engine - docs.docker.com">
@@ -14,7 +14,7 @@ Back in the day, an application would be created and run on a machine. There was
 
 And now, **Docker** is the most popular container system. We can run those containers on physical machines. Docker containers wrap a piece of software in a complete filesystem that contains everything needed to run: code, runtime, system tools, system libraries, etc. anything that can be installed on a server. We can build an **image** and then create as many **containers** as we would like from that image. With docker we're easy to identify issues, isolate the problem container, quickly roll back to make the necessary changes, and then push the updated container into production.
 
-### Docker
+### Docker basic
 
 We can install Docker on our machine in a variety of ways. It depends on our machine to choose the best installation ways. Let's follow from source site to [install docker](https://docs.docker.com/install/) for our machine.
 
@@ -39,9 +39,9 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 68f71db7590c        hello-world         "/hello"                 7 minutes ago       Exited (0) 7 minutes ago                            mystif
 ```
 
-### Demo app with Go
+### Hello app with Go
 
-So Let's write the "Hello, World" program in Go and understand how it works. Open our favorite text editor, create a new file named **main.go**, and type in the following code:
+So let's write the "Hello, World" program in Go and understand how it works. Open our favorite text editor, create a new file named **main.go**, and type in the following code:
 
 ```golang
 package main
