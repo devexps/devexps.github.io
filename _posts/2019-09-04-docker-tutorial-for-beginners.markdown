@@ -57,7 +57,7 @@ func main() {
 }
 
 func index(w http.ResponseWriter, r *http.Request) {
-	io.WriteString(w, "<hello devexps from a docker container")
+	io.WriteString(w, "Hello devexps from a docker container")
 }
 ```
 
