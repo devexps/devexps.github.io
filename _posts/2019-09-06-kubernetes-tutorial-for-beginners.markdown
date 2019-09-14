@@ -121,7 +121,7 @@ spec:
   type: ClusterIP
 ```
 
-In this file, we added the **selector.app** property on the service description, pointing to **hello-kube-deployment**. Kubernetes will use these properties to tie this service to the deployment's pods. And we're defining that this service will listen on **port: 8080** and that it will **targetPort: 12345** on pods. If recheck on our deployent file, we'll see that our containers will use correctly this port (**containerPort: 12345**). That really important, to make sure that our service will target the correct port when redirecting requests to our pods.
+In this file, we added the **selector.app** property on the service description, pointing to **hello-kube-deployment**. Kubernetes will use these properties to tie this service to the deployment's pods. And we're defining that this service will listen on **port: 8080** and that it will **targetPort: 12345** on pods. If recheck on our deployment file, we'll see that our containers will use correctly this port (**containerPort: 12345**). That really important, to make sure that our service will target the correct port when redirecting requests to our pods.
 
 Then, we can use the following command to create this service in our Kubernetes cluster:
 
