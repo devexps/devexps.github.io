@@ -179,12 +179,12 @@ type Bus struct {
 }
 ```
 
-Here the bus overrides the base class, and we can call it like this: b.vehicleImpl.ToString()
+Here the bus overrides the base class, and we can call it like this: b.vehicleBase.ToString()
 
 ```go
 func (b *Bus) ToString() string {
     str := fmt.Sprintf("Bus -> %s", b.GetName())
-    return b.vehicleImpl.ToString() + str
+    return b.vehicleBase.ToString() + str
 }
 ```
 
