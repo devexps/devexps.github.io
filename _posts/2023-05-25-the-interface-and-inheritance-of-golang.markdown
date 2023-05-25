@@ -99,7 +99,7 @@ banana := NewFruit(BananaType, "big")
 
 In C++, the pseudo-code is implemented as:
 
-```cgo
+```cpp
 typedef struct interface;
 
 interface IVehicle {
@@ -194,7 +194,7 @@ Multiple inheritance means having more than one parent class.
 
 In C++, the pseudo-code is implemented as:
 
-```cgo
+```cpp
 class Father {
     virtual string GetName() const {}
     virtual string Say() const {}
