@@ -18,7 +18,7 @@ Single inheritance simply means that there is only one parent class. In terms of
 
 In C++, the pseudo-code is implemented as:
 
-```cgo
+```cpp
 typedef struct interface;
 
 interface IFruit {
@@ -287,4 +287,4 @@ In fact, it's nothing, the key lies in anonymous members ***Mother** and **Fathe
 > 2. Other rules are the same as for non-pointer combinations.
 
 
-Code repository: https://github.com/devexps/go-examples/tree/main/inheritance
+Code repository: [https://github.com/devexps/go-examples/inheritance](https://github.com/devexps/go-examples/tree/main/inheritance)
