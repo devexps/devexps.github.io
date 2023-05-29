@@ -40,8 +40,8 @@ const config = {
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
-                    routeBasePath: 'english',
-                    path: 'docs-sharing',
+                    routeBasePath: 'english-shared',
+                    path: 'docs-shared',
                     sidebarPath: require.resolve('./sidebars.js'),
                 },
                 blog: {

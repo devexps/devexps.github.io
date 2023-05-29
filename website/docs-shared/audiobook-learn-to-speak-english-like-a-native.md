@@ -10,8 +10,10 @@ slug: /effortless-english-audiobook/learn-to-speak-english-like-a-native
 
 # A.J. HOGE: Learn to Speak English Like a Native
 
+
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/EVyYdBHublw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/EVyYdBHublw?controls=0" title="YouTube video player"></iframe>
+<a href="https://www.youtube.com/watch?v=EVyYdBHublw" target="_blank"></a>
 </div>
 
 ## Description

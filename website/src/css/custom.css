@@ -46,10 +46,18 @@ article.margin-bottom--xl div.col.text--right.col--3 {
   padding-bottom: 56.25%;
 }
 
-.video-container iframe {
+.video-container a, .video-container iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.video-container iframe {
+  pointer-events: none;
+}
+
+div.center {
+  text-align: center;
 }
