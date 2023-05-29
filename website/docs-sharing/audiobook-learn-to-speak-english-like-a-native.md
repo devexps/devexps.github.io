@@ -2,15 +2,13 @@
 title: A.J. Hoge - Learn to Speak English Like a Native
 description: A.J. Hoge - Learn to Speak English Like a Native - Effortless English Audiobook
 tags: [effortless english audiobook, effortless english, practice english speaking]
-hide_table_of_contents: false
+hide_table_of_contents: true
 sidebar_label: Effortless English Audiobook
 sidebar_position: 2
 slug: /effortless-english-audiobook/learn-to-speak-english-like-a-native
 ---
 
 # A.J. HOGE: Learn to Speak English Like a Native
-
-## Video
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/EVyYdBHublw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
