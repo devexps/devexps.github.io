@@ -40,3 +40,16 @@ article.margin-bottom--xl footer.row.docusaurus-mt-lg {
 article.margin-bottom--xl div.col.text--right.col--3 {
   font-size: 90%;
 }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
