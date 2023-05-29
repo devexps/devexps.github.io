@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[698],{2409:e=>{e.exports=JSON.parse('{"label":"Docker","permalink":"/tags/docker","allTagsPath":"/tags","count":1}')}}]);

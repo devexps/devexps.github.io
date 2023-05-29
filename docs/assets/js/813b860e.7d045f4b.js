@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[2988],{9425:a=>{a.exports=JSON.parse('{"label":"localization","permalink":"/tags/localization","allTagsPath":"/tags","count":1}')}}]);

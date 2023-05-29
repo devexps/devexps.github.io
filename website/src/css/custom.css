@@ -1,0 +1,46 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0366d6;
+  --ifm-color-primary-dark: #035cc1;
+  --ifm-color-primary-darker: #0357b6;
+  --ifm-color-primary-darkest: #024796;
+  --ifm-color-primary-light: #0370eb;
+  --ifm-color-primary-lighter: #0375f6;
+  --ifm-color-primary-lightest: #1e86fc;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #0366d6;
+  --ifm-color-primary-dark: #035cc1;
+  --ifm-color-primary-darker: #0357b6;
+  --ifm-color-primary-darkest: #024796;
+  --ifm-color-primary-light: #0370eb;
+  --ifm-color-primary-lighter: #0375f6;
+  --ifm-color-primary-lightest: #1e86fc;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+article.margin-bottom--xl h2 {
+  font-size: 1.25rem;
+}
+
+div.col.text--right.col--3 {
+  font-size: 80%;
+}
+
+footer.row.docusaurus-mt-lg {
+  margin-top: 0rem;
+}
+
+footer.row.docusaurus-mt-lg.blogPostFooterDetailsFull_node_modules-\@docusaurus-theme-classic-lib-theme-BlogPostItem-Footer-styles-module {
+  margin-top: 3rem;
+}
