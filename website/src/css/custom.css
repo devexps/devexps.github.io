@@ -33,14 +33,10 @@ article.margin-bottom--xl h2 {
   font-size: 1.25rem;
 }
 
-div.col.text--right.col--3 {
-  font-size: 80%;
-}
-
-footer.row.docusaurus-mt-lg {
+article.margin-bottom--xl footer.row.docusaurus-mt-lg {
   margin-top: 0rem;
 }
 
-footer.row.docusaurus-mt-lg.blogPostFooterDetailsFull_node_modules-\@docusaurus-theme-classic-lib-theme-BlogPostItem-Footer-styles-module {
-  margin-top: 3rem;
+article.margin-bottom--xl div.col.text--right.col--3 {
+  font-size: 90%;
 }
