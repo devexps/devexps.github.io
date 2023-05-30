@@ -13,7 +13,7 @@ sidebar_position: 4
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/8yE-hR8i1lI?controls=0" title="YouTube video player"></iframe>
-<a href="https://www.youtube.com/watch?v=8yE-hR8i1lI" target="_blank"></a>
+<a href="https://www.youtube.com/watch?list=PL___7gkXqjbx7FtKf1v6aTPhzl-k6J3qW&v=8yE-hR8i1lI" target="_blank"></a>
 </div>
 
 ## Description
