@@ -1,7 +1,8 @@
 ---
 title: Level A1 - The Lazy Grasshopper
 description: Level A1 - The Lazy Grasshopper - Audiobook English For Beginners
-tags: [audiobook english for beginners, effortless english, practice english speaking]
+keywords: [shared, english, material, audiobook, practice, english, speaking]
+tags: [audiobook-english-for-beginners, effortless-english, practice-english-speaking]
 hide_table_of_contents: false
 sidebar_label: Level A1 - The Lazy Grasshopper
 sidebar_position: 6
