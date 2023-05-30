@@ -20,7 +20,8 @@ sidebar_position: 6
 
 Learn English through the story with subtitles: The Lazy Grasshopper ( Level A1 )
 
-❖ **Brief**:
+### ❖ Brief:
+
 In summer, Grasshopper sings and sleeps. But Ant works hard, carrying food to her store. Enjoy this famous tale and find out what happens when winter comes... This is a retelling of the classic story for learners of English.
 
 KILL TWO BIRDS WITH ONE STONE: Learn English through stories! Enjoy this English story for learning English. You can improve your English pronunciation and listening skills with this English story with subtitles.

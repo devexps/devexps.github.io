@@ -20,7 +20,8 @@ sidebar_position: 1
 
 Learn English through the story with subtitles: Lownu Mends the Sky ( Level A1 )
 
-❖ **Brief**: 
+### ❖ Brief: 
+
 Find out how Lownu mends all the holes in the day sky and in the night sky... This is a retelling of the classic story for learners of English.
 
 KILL TWO BIRDS WITH ONE STONE: Learn English through stories! Enjoy this English story for learning English. You can improve your English pronunciation and listening skills with this English story with subtitles.

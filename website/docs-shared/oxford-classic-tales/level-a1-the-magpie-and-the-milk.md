@@ -20,7 +20,8 @@ sidebar_position: 9
 
 Learn English through the story with subtitles: The Magpie and the Milk ( Level A1 )
 
-❖ **Brief**:
+### ❖ Brief:
+
 Enjoy this tale from Turkey about a farmer, the milk from her cow, and a magpie... This is a retelling of the classic story for learners of English.
 
 KILL TWO BIRDS WITH ONE STONE: Learn English through stories! Enjoy this English story for learning English. You can improve your English pronunciation and listening skills with this English story with subtitles.

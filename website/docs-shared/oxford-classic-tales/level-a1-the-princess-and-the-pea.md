@@ -20,7 +20,8 @@ sidebar_position: 10
 
 Learn English through the story with subtitles: The Princess and the Pea ( Level A1 )
 
-❖ **Brief**:
+### ❖ Brief:
+
 Enjoy the famous tale of the prince who isn't happy. How can he find a real princess? This is a retelling of the classic story for learners of English.
 
 KILL TWO BIRDS WITH ONE STONE: Learn English through stories! Enjoy this English story for learning English. You can improve your English pronunciation and listening skills with this English story with subtitles.

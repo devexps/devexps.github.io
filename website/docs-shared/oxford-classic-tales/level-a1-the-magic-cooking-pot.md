@@ -20,7 +20,8 @@ sidebar_position: 8
 
 Learn English through the story with subtitles: The Magic Cooking Pot ( Level A1 )
 
-❖ **Brief**:
+### ❖ Brief:
+
 Enjoy the tale of the hungry little girl, her mother, and the magic cooking pot... This is a retelling of the classic story for learners of English.
 
 KILL TWO BIRDS WITH ONE STONE: Learn English through stories! Enjoy this English story for learning English. You can improve your English pronunciation and listening skills with this English story with subtitles.
