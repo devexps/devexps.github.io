@@ -1,6 +1,7 @@
 ---
 title: Level A1 - The Magpie and the Milk
 description: Level A1 - The Magpie and the Milk - Audiobook English For Beginners
+image: https://img.youtube.com/vi/5VICfhpKwcA/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
 tags: [audiobook-english-for-beginners, effortless-english, practice-english-speaking]
 hide_table_of_contents: false

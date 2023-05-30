@@ -1,6 +1,7 @@
 ---
 title: Level A1 - Peach Boy
 description: Level A1 - Peach Boy - Audiobook English For Beginners
+image: https://img.youtube.com/vi/EGFvfzAsQi4/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
 tags: [audiobook-english-for-beginners, effortless-english, practice-english-speaking]
 hide_table_of_contents: false
