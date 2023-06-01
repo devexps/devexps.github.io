@@ -74,11 +74,11 @@ const config = {
                 items: [
                     // {
                     //     label: 'Sharing',
-                    //     to: '/pes/overview',
+                    //     to: '/english-shared/',
                     // },
                     {
                         label: 'Go-Micro',
-                        to: '/go-micro/introduction/overview',
+                        to: '/go-micro/',
                     },
                     {
                         href: 'https://github.com/devexps',
