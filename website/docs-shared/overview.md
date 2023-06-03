@@ -1,6 +1,6 @@
 ---
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [effortless-english-audiobook, effortless-english, practice-english-speaking]
+tags: [effortless-english-audiobook, effortless-english]
 sidebar_label: Overview
 sidebar_position: 1
 slug: /

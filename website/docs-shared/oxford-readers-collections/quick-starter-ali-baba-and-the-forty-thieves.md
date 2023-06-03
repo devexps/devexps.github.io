@@ -3,7 +3,7 @@ title: Quick Starter - Ali Baba and the Forty Thieves
 description: Quick Starter - Ali Baba and the Forty Thieves - Audiobook For Learning English
 image: https://img.youtube.com/vi/P1XMCPOZG80/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english, practice-english-speaking]
+tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Quick Starter - Ali Baba and the Forty Thieves
 sidebar_position: 1

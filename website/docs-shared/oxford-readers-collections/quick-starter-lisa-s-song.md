@@ -3,7 +3,7 @@ title: Quick Starter - Lisa's Song
 description: Quick Starter - Lisa's Song - Audiobook For Learning English
 image: https://img.youtube.com/vi/pQ1irK1CAzA/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english, practice-english-speaking]
+tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Quick Starter - Lisa's Song
 sidebar_position: 4

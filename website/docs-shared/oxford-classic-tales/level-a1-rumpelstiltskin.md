@@ -3,7 +3,7 @@ title: Level A1 - Rumpelstiltskin
 description: Level A1 - Rumpelstiltskin - Audiobook English For Beginners
 image: https://img.youtube.com/vi/8yE-hR8i1lI/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-english-for-beginners, effortless-english, practice-english-speaking]
+tags: [audiobook-english-for-beginners, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Level A1 - Rumpelstiltskin
 sidebar_position: 4

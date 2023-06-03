@@ -3,7 +3,7 @@ title: Book 1 - Greg Heffley's Journal
 description: Book 1 - Greg Heffley's Journal (Diary of a Wimpy Kid) - English Speaking Audiobook
 image: https://img.youtube.com/vi/Q205vEwXqig/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, practice-english-speaking]
+tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Book 1 - Greg Heffley's Journal
 sidebar_position: 1

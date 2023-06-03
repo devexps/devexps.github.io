@@ -3,7 +3,7 @@ title: Quick Starter - Perseus
 description: Quick Starter - Perseus - Audiobook For Learning English
 image: https://img.youtube.com/vi/vniqJkZQ6TY/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english, practice-english-speaking]
+tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Quick Starter - Perseus
 sidebar_position: 6

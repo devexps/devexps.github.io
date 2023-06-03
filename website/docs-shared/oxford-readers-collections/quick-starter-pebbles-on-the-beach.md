@@ -3,7 +3,7 @@ title: Quick Starter - Pebbles on the Beach
 description: Quick Starter - Pebbles on the Beach - Audiobook For Learning English
 image: https://img.youtube.com/vi/s_Jh3PlwCcw/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english, practice-english-speaking]
+tags: [audiobook-for-learning-english, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Quick Starter - Pebbles on the Beach
 sidebar_position: 5

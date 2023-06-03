@@ -3,7 +3,7 @@ title: Level A1 - The Magic Cooking Pot
 description: Level A1 - The Magic Cooking Pot - Audiobook English For Beginners
 image: https://img.youtube.com/vi/0H3UZ9PB_iI/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [audiobook-english-for-beginners, effortless-english, practice-english-speaking]
+tags: [audiobook-english-for-beginners, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Level A1 - The Magic Cooking Pot
 sidebar_position: 8

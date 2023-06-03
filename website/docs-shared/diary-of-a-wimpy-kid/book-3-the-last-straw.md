@@ -3,7 +3,7 @@ title: Book 3 - The Last Straw
 description: Book 3 - The Last Straw (Diary of a Wimpy Kid) - English Speaking Audiobook
 image: https://img.youtube.com/vi/BrSpjG6smcE/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, practice-english-speaking]
+tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Book 3 - The Last Straw
 sidebar_position: 3

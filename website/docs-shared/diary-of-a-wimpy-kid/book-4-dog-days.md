@@ -3,7 +3,7 @@ title: Book 4 - Dog Days
 description: Book 4 - Dog Days (Diary of a Wimpy Kid) - English Speaking Audiobook
 image: https://img.youtube.com/vi/OFXopYF7ihI/0.jpg
 keywords: [shared, english, material, audiobook, practice, english, speaking]
-tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, practice-english-speaking]
+tags: [diary-of-a-wimpy-kid, english-speaking-audiobook, learn-english-through-story, effortless-english]
 hide_table_of_contents: false
 sidebar_label: Book 4 - Dog Days
 sidebar_position: 4
