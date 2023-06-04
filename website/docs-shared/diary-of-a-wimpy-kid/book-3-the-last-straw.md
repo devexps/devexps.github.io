@@ -8,6 +8,9 @@ hide_table_of_contents: false
 sidebar_label: Book 3 - The Last Straw
 sidebar_position: 3
 ---
+<head>
+  <meta name="robots" content="noindex, nofollow" />
+</head>
 
 # Book 3 - The Last Straw (Diary of a Wimpy Kid)
 
