@@ -29,7 +29,7 @@ Micro is the best tool for the Go-Micro framework, micro can:
 - Quickly create projects & services from templates
 - Use commands commonly used during development
 
-In order for the next steps to proceed smoothly, the micro command tool needs to [be installed](usage.md#Installation)
+In order for the next steps to proceed smoothly, the micro command tool needs to [be installed](usage.md#installation)
 
 ## Create project
 ```bash
