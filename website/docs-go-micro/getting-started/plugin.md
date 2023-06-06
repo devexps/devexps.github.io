@@ -18,5 +18,5 @@ Go-Micro provides a series of plug-ins to help you enhance the functionality of 
 
 ## Categories
 ### Service Discovery & Registration
-* [consul](https://github.com/devexps/go-micro/tree/main/plugins/registry/consul)
-* [etcd](https://github.com/devexps/go-micro/tree/main/plugins/registry/etcd)
+* [consul](https://github.com/devexps/go-micro/tree/main/registry/consul)
+* [etcd](https://github.com/devexps/go-micro/tree/main/registry/etcd)
