@@ -13,7 +13,7 @@ keywords:
 sidebar_position: 1
 ---
 
-## Environmental preparation
+## Environment Requirements
 First, you need to install the corresponding dependent environment and tools:
 - [go](https://golang.org/dl/)
 - [protoc](https://github.com/protocolbuffers/protobuf)
