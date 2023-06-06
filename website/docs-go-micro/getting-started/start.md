@@ -53,7 +53,7 @@ make all
 make run
 
 # Use Micro's run command
-miro run
+micro run
 ```
 
 ### Output
