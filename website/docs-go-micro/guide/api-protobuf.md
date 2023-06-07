@@ -151,7 +151,7 @@ If your `.proto` defines a RPC service, you should use CamelCase for both the se
 ```protobuf
 service FooService {
   rpc GetFoo(GetFooRequest) returns (GetFooReply);
-  rpc ListFoo(ListFooRequest) returns (ListFoodReply);
+  rpc ListFoo(ListFooRequest) returns (ListFooReply);
 }
 ```
 
@@ -173,7 +173,6 @@ package gomicro.demo.v1;
 // import block
 // ...
 
-// option block
 option go_package = "github.com/devexps/go-micro/demo/v1;v1";
 option java_multiple_files = true;
 option java_package = "com.github.devexps.gomicro.demo.v1";
@@ -183,11 +182,13 @@ service Greeter {
   // definition the function of API
   rpc SayHello (HelloRequest) returns (HelloReply);
 }
+
 // the request of Hello
 message HelloRequest {
   // user's name
   string name = 1;
 }
+
 // the response of Hello
 message HelloReply {
   // result data
