@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Ali Baba and the Forty Thieves
 sidebar_position: 1
 ---
 
-# Level A1 - Ali Baba and the Forty Thieves
+# Quick Starter - Ali Baba and the Forty Thieves
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/P1XMCPOZG80?controls=0" title="YouTube video player"></iframe>

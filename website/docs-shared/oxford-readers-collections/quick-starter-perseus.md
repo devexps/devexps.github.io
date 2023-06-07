@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Perseus
 sidebar_position: 6
 ---
 
-# Level A1 - Perseus
+# Quick Starter - Perseus
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/vniqJkZQ6TY?controls=0" title="YouTube video player"></iframe>

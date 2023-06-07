@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Crying Wolf and Other Tales Thieves
 sidebar_position: 2
 ---
 
-# Level A1 - Crying Wolf and Other Tales Thieves
+# Quick Starter - Crying Wolf and Other Tales Thieves
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/rjtQReRCcco?controls=0" title="YouTube video player"></iframe>

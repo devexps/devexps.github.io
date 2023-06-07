@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Merlin
 sidebar_position: 3
 ---
 
-# Level A1 - Merlin
+# Quick Starter - Merlin
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/OfETjpSvMUU?controls=0" title="YouTube video player"></iframe>

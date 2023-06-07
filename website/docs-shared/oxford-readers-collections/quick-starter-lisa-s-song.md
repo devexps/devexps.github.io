@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Lisa's Song
 sidebar_position: 4
 ---
 
-# Level A1 - Lisa's Song
+# Quick Starter - Lisa's Song
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/pQ1irK1CAzA?controls=0" title="YouTube video player"></iframe>

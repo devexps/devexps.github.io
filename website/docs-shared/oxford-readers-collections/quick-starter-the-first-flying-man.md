@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - The First Flying Man
 sidebar_position: 7
 ---
 
-# Level A1 - The First Flying Man
+# Quick Starter - The First Flying Man
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/_ihcQ0vkyQA?controls=0" title="YouTube video player"></iframe>

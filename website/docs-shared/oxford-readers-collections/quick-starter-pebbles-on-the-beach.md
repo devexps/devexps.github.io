@@ -9,7 +9,7 @@ sidebar_label: Quick Starter - Pebbles on the Beach
 sidebar_position: 5
 ---
 
-# Level A1 - Pebbles on the Beach
+# Quick Starter - Pebbles on the Beach
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/s_Jh3PlwCcw?controls=0" title="YouTube video player"></iframe>
