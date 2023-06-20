@@ -40,9 +40,8 @@ const config = {
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
-                    id: 'go-micro',
-                    routeBasePath: 'go-micro',
-                    path: 'docs-go-micro',
+                    routeBasePath: 'english-shared',
+                    path: 'docs-shared',
                     sidebarPath: require.resolve('./sidebars.js'),
                 },
                 blog: {
@@ -96,17 +95,17 @@ const config = {
             },
         }),
 
-    // plugins: [
-    //     [
-    //         '@docusaurus/plugin-content-docs',
-    //         {
-    //             id: 'go-micro',
-    //             routeBasePath: 'go-micro',
-    //             path: 'docs-go-micro',
-    //             sidebarPath: require.resolve('./sidebars.js'),
-    //         },
-    //     ],
-    // ],
+    plugins: [
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+                id: 'go-micro',
+                routeBasePath: 'go-micro',
+                path: 'docs-go-micro',
+                sidebarPath: require.resolve('./sidebars.js'),
+            },
+        ],
+    ],
 };
 
 module.exports = config;
