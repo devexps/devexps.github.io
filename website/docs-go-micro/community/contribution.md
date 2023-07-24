@@ -1,5 +1,5 @@
 ---
-title: contribution
+title: Contribution
 description: Go-Micro contribution
 keywords:
   - Go
