@@ -19,6 +19,8 @@ This community hopes to get help from developers from all over the world, so I a
 ## Bug fixed
 Go-Micro uses Github Issues to manage issues. If you want to submit a bug report or help fix a bug, please to make sure to search the existing issues and pull requests.
 
+When submitting a bug report, please use the issue template we provide to clearly describe the problem encountered and how to reproduce it. If it is convenient, it's best to provide a minimal reproduction warehouse.
+
 ## How to submit code
 If you have never committed code on Github, please follow the steps below:
 
