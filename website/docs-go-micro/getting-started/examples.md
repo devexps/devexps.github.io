@@ -24,3 +24,5 @@ Go-Micro provides a wealth of sample code/projects for reference.
 
 ## Complete Projects:
 - [micro-blog](https://github.com/devexps/go-examples/tree/main/micro-blog) a Golang blogging system/CMS, mono-repo microservices demo for Go-Micro
+- [go-bi](https://github.com/devexps/go-bi) A Golang Business Intelligence System
+- [go-sse](https://github.com/devexps/go-sse) Golang microservice framework go-micro implements SSE service
