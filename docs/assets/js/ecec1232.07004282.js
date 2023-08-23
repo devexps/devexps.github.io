@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[2578],{7526:e=>{e.exports=JSON.parse('{"label":"microservice","permalink":"/tags/microservice","allTagsPath":"/tags","count":1}')}}]);
