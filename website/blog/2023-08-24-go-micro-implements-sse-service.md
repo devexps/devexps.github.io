@@ -186,27 +186,40 @@ go get -u github.com/devexps/go-micro/transport/sse/v2
 Then implement a simple server:
 
 ```go
-interrupt := make(chan os.Signal, 1)
-signal.Notify(interrupt, syscall.SIGHUP, syscall.SIGINT, syscall.SIGTERM, syscall.SIGQUIT)
+package main
 
-ctx := context.Background()
+import (
+  "context"
+  "os"
+  "os/signal"
+  "syscall"
 
-s := NewServer(
-WithAddress(":8080"),
+  "github.com/devexps/go-micro/transport/sse/v2"
 )
-defer s.Stop(ctx)
 
-s.HandleServeHTTP("/events")
+func main() {
+  interrupt := make(chan os.Signal, 1)
+  signal.Notify(interrupt, syscall.SIGHUP, syscall.SIGINT, syscall.SIGTERM, syscall.SIGQUIT)
 
-s.CreateStream("demo")
+  ctx := context.Background()
 
-go func () {
-s.Start(ctx)
-}()
+  s := sse.NewServer(
+    sse.WithAddress(":8080"),
+  )
+  defer s.Stop(ctx)
 
-s.Publish("demo", &Event{Data: []byte("message")})
+  s.HandleServeHTTP("/events")
 
-<-interrupt
+  s.CreateStream("demo")
+
+  go func() {
+    s.Start(ctx)
+  }()
+
+  s.Publish("demo", &sse.Event{Data: []byte("message")})
+
+  <-interrupt
+}
 ```
 
 ### Javascript client
