@@ -17,7 +17,7 @@ To put it bluntly, this is an HTTP long connection protocol that continuously se
 server.
 In the case of unstable network, it is better than WebSocket.
 
-### What is SSE?
+## What is SSE?
 
 Server-Sent Events (SSE for short)
 
@@ -49,9 +49,9 @@ However, SSE also has its own advantages:
 
 Therefore, both have their own characteristics and are suitable for different occasions.
 
-### Protocol description
+## Protocol description
 
-#### Data format
+### Data format
 
 The SSE data sent by the server to the browser must be UTF-8 encoded text with the following HTTP header information.
 
@@ -90,7 +90,7 @@ data: another demo message\n
 data: with two lines \n\n
 ```
 
-#### Data field
+### Data field
 
 The data content is represented by the `data` field.
 If the data is too long, it can be divided into multiple lines.
@@ -113,7 +113,7 @@ data: "baz", 555\n
 data: }\n\n
 ```
 
-#### ID field
+### ID field
 
 The data identifier is represented by the `id` field, which is equivalent to the serial number of each piece of data.
 
@@ -127,7 +127,7 @@ Once the connection is disconnected, the browser will send an HTTP header contai
 information, and send this value back to help the server re-establish the connection.
 Therefore, this header can be viewed as a synchronization mechanism.
 
-#### Event field
+### Event field
 
 The `event` field indicates a custom event type, and the default is a `message` event. The browser can listen to this
 event with `addEventListener()`.
@@ -162,7 +162,7 @@ event: usermessage
 data: {"username": "Jerry", "time": "02:34:36", "text": "Bye, Tom."}
 ```
 
-#### Retry field
+### Retry field
 
 The server can use this `retry` field to specify the time interval for the browser to re-initiate the connection.
 
@@ -175,7 +175,7 @@ Two situations will cause the browser to re-initiate the connection:
 - One is that the time interval expires.
 - The other is a connection error due to network error and other reasons.
 
-### Go-Micro server
+## Go-Micro server
 
 Firstly install the library:
 
@@ -222,7 +222,7 @@ func main() {
 }
 ```
 
-### Javascript client
+## Javascript client
 
 ```html
 <!DOCTYPE html>
@@ -273,7 +273,7 @@ func main() {
 
 Code repository: [https://github.com/devexps/go-sse](https://github.com/devexps/go-sse)
 
-### References
+## References
 
 - [Server-sent events - Wikipedia](https://en.wikipedia.org/wiki/Server-sent_events)
 - [Golang and Server-Sent Events (SSE)](https://dev.to/rafaelgfirmino/golang-and-sse-3l56)

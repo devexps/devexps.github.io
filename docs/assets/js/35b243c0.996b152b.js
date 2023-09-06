@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[3895],{2482:e=>{e.exports=JSON.parse('{"label":"fluentd","permalink":"/tags/fluentd","allTagsPath":"/tags","count":1}')}}]);
