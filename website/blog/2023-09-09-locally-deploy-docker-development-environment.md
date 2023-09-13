@@ -15,11 +15,6 @@ Bash's newlines are `\\`
 
 The newline character of CMD is `\^`
 
-Brief analysis of parameters:
-
-- `-p host port:container port`
-- `-e key=value`
-
 :::
 
 Need to set Host:
