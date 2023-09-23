@@ -22,6 +22,9 @@ Go-Micro provides a wealth of sample code/projects for reference.
 ### RPC
 - [helloworld](https://github.com/devexps/go-examples/tree/main/helloworld) example of remote calls using http and gRPC.
 
+### Kubernets
+- [k8s](https://github.com/devexps/go-examples/tree/main/k8s) example of using k8s service discovery registration and configuration management.
+
 ## Complete Projects:
 - [micro-blog](https://github.com/devexps/go-examples/tree/main/micro-blog) a Golang blogging system/CMS, mono-repo microservices demo for Go-Micro
 - [go-bi](https://github.com/devexps/go-bi) A Golang Business Intelligence System
