@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[1427],{139:s=>{s.exports=JSON.parse('{"label":"k8s-discovery","permalink":"/tags/k-8-s-discovery","allTagsPath":"/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[6698],{1908:a=>{a.exports=JSON.parse('{"label":"k8s-configmap","permalink":"/tags/k-8-s-configmap","allTagsPath":"/tags","count":1}')}}]);
