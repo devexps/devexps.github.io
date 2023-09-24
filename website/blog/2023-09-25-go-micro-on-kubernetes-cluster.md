@@ -2,7 +2,7 @@
 title: How microservice framework (Go-Micro) runs on Kubernetes cluster
 description: How microservice framework (Go-Micro) runs on a Kubernetes cluster
 tags: [go-micro, microservice, framework, kubernetes, k8s-discovery, k8s-registry, k8s-configmap]
-image: /assets/thoughts/go-micro/go-micro-on-k8s/screenshot-003.png
+image: /assets/thoughts/go-micro/go-micro-on-k8s/screenshot-000.png
 hide_table_of_contents: false
 --- 
 <!--truncate-->
