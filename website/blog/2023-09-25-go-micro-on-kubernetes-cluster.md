@@ -125,7 +125,7 @@ The permissions to bind `serviceaccount` to operate Pods and operate ConfigMap w
 
 First of all, let's create a service account. 
 Every Kubernetes namespace contains at least one ServiceAccount: the default ServiceAccount for that namespace, named `default`. 
-If you do not specify a ServiceAccount when you create a Pod, Kubernetes automatically assigns the ServiceAccount named default in that namespace.
+If you do not specify a ServiceAccount when you create a Pod, Kubernetes automatically assigns the ServiceAccount named `default` in that namespace.
 
 ```yaml
 apiVersion: v1
@@ -196,7 +196,6 @@ subjects:
 Then apply it now:
 
 ```yaml
-kubectl apply -f .k8s/namespace.yaml
 kubectl apply -f .k8s/serviceaccount.yaml
 kubectl apply -f .k8s/configmap-rbac.yaml
 kubectl apply -f .k8s/pod-rbac.yaml
