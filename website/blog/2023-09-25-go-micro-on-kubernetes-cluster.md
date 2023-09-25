@@ -679,7 +679,6 @@ And then we'll see the result like this:
 
 Code repository: [https://github.com/devexps/go-examples/k8s](https://github.com/devexps/go-examples/tree/main/k8s)
 
-This article shows you how to run simple Go-Micro services on a Kubernetes cluster and also uses its powerful built-in ConfigMap and API Server. Before doing so,  you have to learn more about Kubernetes concepts and learn how to perform specific tasks. At this point, I just remembered that I forgot an important thing about the `Health check` step. It looks like I'm out of paper, so I will give that step to you :). Hopefully, this article is informative and useful for you.
 In this article, you'll learn how to deploy simple Go-Micro services on a Kubernetes cluster while leveraging its powerful built-in ConfigMap and API Server. However, before diving into the specifics of the deployment process, it's essential to understand the fundamental concepts of Kubernetes and acquire the necessary skills to carry out specific tasks. As I was going over the `Health check` step, I realized that I had missed an essential detail. It looks like I'm out of paper, so I'll leave that step to you. I hope you find this article informative and helpful.
 
 ## References
