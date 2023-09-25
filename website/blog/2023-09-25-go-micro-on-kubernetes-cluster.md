@@ -11,7 +11,7 @@ hide_table_of_contents: false
 
 This article mainly demonstrates how the microservice framework (Go-Micro) runs on a Kubernetes cluster and performs service discovery registration and configuration management by calling APIServer.
 
-First of all, let me get something straight this article doesn't aim to tell all about what you want to know, instead I assume that if you are still here, reading all about what I'm going to say, you're the person who already have the base knowledge in somewhat that I'll present.
+First of all, let me get something straight this article does not intend to cover everything you may want to know. Rather, I assume that if you are still reading this, you already have a basic understanding of what I will be discussing.
 
 As I said, I'll quickly go around the two main characteristics below and focus on the example that helps you feel more confident to put your own microservices using some useful built-in on the Kubernetes cluster.
 
@@ -680,6 +680,7 @@ And then we'll see the result like this:
 Code repository: [https://github.com/devexps/go-examples/k8s](https://github.com/devexps/go-examples/tree/main/k8s)
 
 This article shows you how to run simple Go-Micro services on a Kubernetes cluster and also uses its powerful built-in ConfigMap and API Server. Before doing so,  you have to learn more about Kubernetes concepts and learn how to perform specific tasks. At this point, I just remembered that I forgot an important thing about the `Health check` step. It looks like I'm out of paper, so I will give that step to you :). Hopefully, this article is informative and useful for you.
+In this article, you'll learn how to deploy simple Go-Micro services on a Kubernetes cluster while leveraging its powerful built-in ConfigMap and API Server. However, before diving into the specifics of the deployment process, it's essential to understand the fundamental concepts of Kubernetes and acquire the necessary skills to carry out specific tasks. As I was going over the `Health check` step, I realized that I had missed an essential detail. It looks like I'm out of paper, so I'll leave that step to you. I hope you find this article informative and helpful.
 
 ## References
 
