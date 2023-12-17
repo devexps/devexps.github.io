@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[7838],{1801:a=>{a.exports=JSON.parse('{"label":"go-micro","permalink":"/tags/go-micro","allTagsPath":"/tags","count":4}')}}]);

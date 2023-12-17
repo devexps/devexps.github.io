@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[321],{3125:e=>{e.exports=JSON.parse('{"permalink":"/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

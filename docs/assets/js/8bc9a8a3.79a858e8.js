@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[5451],{7228:e=>{e.exports=JSON.parse('{"label":"architecture","permalink":"/tags/architecture","allTagsPath":"/tags","count":1}')}}]);

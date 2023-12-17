@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[1278],{8900:a=>{a.exports=JSON.parse('{"label":"monolithic","permalink":"/tags/monolithic","allTagsPath":"/tags","count":1}')}}]);
