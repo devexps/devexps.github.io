@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgo_micro=self.webpackChunkgo_micro||[]).push([[2338],{1131:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"go-micro"}')}}]);
