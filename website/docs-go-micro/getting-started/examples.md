@@ -30,3 +30,5 @@ Go-Micro provides a wealth of sample code/projects for reference.
 - [go-bi](https://github.com/devexps/go-bi) A Golang Business Intelligence System
 - [go-sse](https://github.com/devexps/go-sse) Golang microservice framework go-micro implements SSE service
 - [go-efk](https://github.com/devexps/go-efk) Golang microservice framework go-micro easily connects to the EFK log system
+- [go-monolithic-demo](https://github.com/devexps/go-monolithic-demo) GoMicro Monolithic Demo
+- [go-microservices-demo](https://github.com/devexps/go-microservices-demo) GoMicro Microservices Demo
